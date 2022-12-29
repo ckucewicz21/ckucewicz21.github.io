@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[Baseball Height Homerun Analysis]([/sample_page](https://docs.google.com/presentation/d/1XGhW7SjzQQ5Aa7sspCoQ7zDgOYeQ7O2YBFF9NICYoXY/edit?usp=sharing))
 #<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
