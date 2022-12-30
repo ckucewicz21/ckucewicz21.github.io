@@ -10,7 +10,7 @@
 ---
 ### Python Projects
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Medical Insurance Estimates vs. Costs](/pdf/sample_presentation.pdf)
 
 
 
