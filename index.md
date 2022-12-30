@@ -4,7 +4,7 @@
 
 ### R Projects
 
-[Baseball Height vs. Homerun Analysis](/blob/5f07f648a731496982b137ec50adc2b18a6b0673/Analyzing%20Baseball%20Data_%20Does%20Height%20Affect%20Power.pdf)
+[Baseball Height vs. Homerun Analysis](/Analyzing%20Baseball%20Data_%20Does%20Height%20Affect%20Power.pdf)
 
 
 ---
