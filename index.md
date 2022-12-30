@@ -4,7 +4,7 @@
 
 ### R Projects
 
-[Baseball Height Homerun Analysis]([/sample_page](https://docs.google.com/presentation/d/1XGhW7SjzQQ5Aa7sspCoQ7zDgOYeQ7O2YBFF9NICYoXY/edit?usp=sharing))
+[Baseball Height vs. Homerun Analysis]([/sample_page](https://docs.google.com/presentation/d/1XGhW7SjzQQ5Aa7sspCoQ7zDgOYeQ7O2YBFF9NICYoXY/edit?usp=sharing))
 
 
 ---
