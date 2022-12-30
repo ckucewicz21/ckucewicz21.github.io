@@ -1,5 +1,4 @@
 ## Data Science Portfolio
- #<br>
 I have been teaching myself how to code through online courses and additional resources ("Analyzing Baseball Data in R" by Jim Albert and Max Marchi; and "Intro to Statistical Learning with Applications in R", Springer Texts in Statistics). Right now, I'm learning Python through Codecademy's 'Data Scientist: Machine Learning Specialist' online program.  
  
 ---
