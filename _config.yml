@@ -2,10 +2,11 @@ title: Chris Kucewicz # your name (or website title) here
 logo: "https://raw.githubusercontent.com/ckucewicz21/ckucewicz21.github.io/main/Screen%20Shot%202022-09-21%20at%2010.09.18%20PM.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
+  
   <br><br>
   Second description 
   <br><br>
-  <a "www.linkedin.com/in/chriskucewicz">View My LinkedIn Profile</a> 
+  #<a href="www.linkedin.com/in/chriskucewicz">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
