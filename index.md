@@ -10,7 +10,7 @@
 ---
 ### Python Projects
 
-[Medical Insurance Estimates vs. Costs](/pdf/sample_presentation.pdf)
+[Medical Insurance Estimates vs. Costs](/Medical_Insurance_Estimates_vs_Costs%20(4).ipynb)
 
 
 
