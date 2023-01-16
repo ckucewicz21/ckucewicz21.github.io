@@ -14,6 +14,8 @@ Over the last 2 years I have been teaching myself how to code through online cou
 
 [Medical Insurance Estimates vs. Costs](/Medical_Insurance_Estimates_vs_Costs%20(4).ipynb)
 
+[Frida Kahlo Exhibition]()
+
 
 
 ---
