@@ -6,7 +6,7 @@ Over the last 2 years I have been teaching myself how to code through online cou
 
 ### R Projects
 
-[Baseball Height vs. Homerun Analysis](/Analyzing%20Baseball%20Data_%20Does%20Height%20Affect%20Power.pdf)
+[Baseball Height vs. Homerun Analysis](/Analyzing%20Baseball%20Data_%20Height%20and%20Hitting%20Power.pdf)
 
 
 ---
